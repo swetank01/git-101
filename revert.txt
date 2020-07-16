@@ -1,3 +1,4 @@
 commit one
 commit two
-commit threescenario is ready
+commit three
+scenario is ready
